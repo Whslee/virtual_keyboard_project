@@ -1,0 +1,12 @@
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 대각선/검지클릭_대각선_접은거/KakaoTalk_20230127_230622656.mp4 1
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 대각선/검지클릭_대각선_편거/KakaoTalk_20230127_230625326.mp4 0
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 손등/검지클릭_손등_접은거/KakaoTalk_20230127_230612466.mp4 1
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 손등/검지클릭_손등_편거/KakaoTalk_20230127_230617997.mp4 0
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 손바닥/검지클릭_손바닥_접은거/KakaoTalk_20230127_230615031.mp4 1
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 손바닥/검지클릭_손바닥_편거/KakaoTalk_20230127_230620260.mp4 0
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 정면/검지클릭_정면_접은거/KakaoTalk_20230127_230605769.mp4 1
+/home/ai_competition22/old/dgkim/data_hyunjun/검지클릭모음/검지클릭 정면/검지클릭_정면_편거/KakaoTalk_20230127_230608869.mp4 0
+/home/ai_competition22/old/dgkim/data_hyunjun/중지클릭모음/중지클릭 대각선/중지클릭_대각선_접은거/KakaoTalk_20230127_230644775.mp4 2
+/home/ai_competition22/old/dgkim/data_hyunjun/중지클릭모음/중지클릭 대각선/중지클릭_대각선_편거/KakaoTalk_20230127_230647719.mp4 0
+/home/ai_competition22/old/dgkim/data_hyunjun/중지클릭모음/중지클릭 손등/중지클릭_손등_접은거/KakaoTalk_20230127_230633307.mp4
+/home/ai_competition22/old/dgkim/data_hyunjun/중지클릭모음/중지클릭 손등/중지클릭_손등_편거/KakaoTalk_20230127_230636078.mp4
